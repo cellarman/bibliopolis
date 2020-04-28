@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^3.0.6",
     "body-parser": "^1.16.0",
     "cron": "^1.2.1",
     "ejs": "^2.5.5",
